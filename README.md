@@ -16,13 +16,6 @@
 
 ---
 
-## 🏢 Professional Experience
-
-### 🔹 Python Developer @ Think Data Labs  
-Contributing to scalable microservice-based architecture using **FastAPI** and **Django**, integrating **AI/ML pipelines**, maintaining DevOps automation, and managing deployments on **multi-cloud** platforms (AWS, Azure, GCP).
-
----
-
 ## 📦 PyPI Projects
 
 ### 🔹 [`django-activitylog-jwt`](https://pypi.org/project/django-activitylog-jwt/)
