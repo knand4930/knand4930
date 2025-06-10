@@ -12,7 +12,7 @@
 - **DevOps**: Kubernetes, Jenkins, ArgoCD, Docker, Terraform
 - **Cloud**: AWS, Azure, GCP, Oracle Cloud
 - **Testing**: Selenium, Pytest, unittest, BeautifulSoup
-- **Security**: JWT, OAuth2, Activity Logging
+- **Security**: JWT, OAuth2, AES, Activity Logging
 
 ---
 
