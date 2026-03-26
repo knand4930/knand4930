@@ -1,298 +1,300 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=200&section=header&text=Nand%20Kishore&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%2B%20AI%20Systems%20Engineer%20%7C%20Python%20%7C%20FastAPI%20%7C%20Django%20%7C%20LLM%20%7C%20Kafka&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Nand%20Kishore&fontSize=52&fontColor=e94560&fontAlignY=40&desc=Full%20Stack%20%2B%20AI%20Systems%20Engineer&descAlignY=62&descSize=20&descColor=a8b2d8" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&width=750&lines=Building+scalable+backend+systems+%F0%9F%9A%80;RAG+%2B+LLM+systems+for+real-world+data+%F0%9F%A4%96;Kafka+%7C+Kubernetes+%7C+PostgreSQL+at+scale+%E2%9A%A1;Privacy-first+AI+code+editor+(NCode)+%F0%9F%96%A5%EF%B8%8F;Open+source+PyPI+maintainer+%F0%9F%93%A6)](https://git.io/typing-svg)
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=knand4930&style=for-the-badge&color=6C63FF)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=e94560&center=true&vCenter=true&width=680&lines=Python+%7C+FastAPI+%7C+Django+%7C+Kafka+%7C+Kubernetes;RAG+Systems+%7C+LLM+Integration+%7C+Vector+Search;Scalable+Backend+Architecture+%7C+Microservices;Open+Source+Author+%7C+PyPI+Maintainer)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nand-kishore-2091a8227/)
+&nbsp;
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/knand4930/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/knand4930)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=knand4930&style=flat-square&color=e94560&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About
 
-Hey! I'm **Nand Kishore**, a Full Stack + AI Systems Engineer from India. I specialize in building clean, scalable, and production-ready systems — from high-throughput data pipelines handling billions of records, to RAG-powered AI chatbots, to privacy-first desktop tools written in Rust.
+I'm a **Full Stack + AI Systems Engineer** specializing in high-performance backend architecture, distributed data systems, and production-grade AI/ML integration. I build systems designed to operate at scale — from LLM-powered applications to Kafka-driven pipelines processing billions of records.
 
-I think in systems: performance, scalability, and clean architecture aren't afterthoughts for me — they're the starting point.
+My work spans the full engineering stack: secure REST APIs, real-time event systems, cloud-native infrastructure, and intelligent document processing. I contribute to open source and maintain published PyPI packages actively used in production.
 
-Currently building **[NCode](https://github.com/knand4930/ncode)** — a privacy-first AI code editor powered by local (Ollama) and cloud LLMs, built with Rust, Tauri, React, and Python.
+> **Currently building** [NCode](https://github.com/knand4930/ncode) — a privacy-first AI code editor with local (Ollama) + cloud LLM support, built with Rust, Tauri, React, and Python.
 
-```python
-class NandKishore:
-    def __init__(self):
-        self.name        = "Nand Kishore"
-        self.role        = "Full Stack + AI Systems Engineer"
-        self.location    = "India 🇮🇳"
-        self.languages   = ["Python", "JavaScript", "SQL", "Bash", "Rust", "TypeScript"]
-        self.backend     = ["Django", "FastAPI", "REST APIs", "Microservices", "Kafka"]
-        self.ai_ml       = ["RAG", "LLMs", "BERT", "XGBoost", "DNN", "pgvector"]
-        self.devops      = ["Kubernetes", "Docker", "Traefik", "ArgoCD", "Terraform"]
-        self.cloud       = ["AWS", "GCP", "Azure", "Oracle Cloud"]
-        self.currently   = "Building NCode — privacy-first AI code editor"
-        self.pypi        = "https://pypi.org/user/knand4930/"
+---
 
-    def say_hi(self):
-        print("Thanks for stopping by! Feel free to explore my work.")
+## Core Competencies
 
-me = NandKishore()
-me.say_hi()
+```
+Backend Engineering      ████████████████████  Django · FastAPI · Microservices · REST APIs
+AI / ML Systems          ███████████████████░  RAG · LLM Integration · BERT · XGBoost · DNN
+Distributed Systems      ██████████████████░░  Kafka · RabbitMQ · WebSockets · Async Python
+Database Engineering     ████████████████████  PostgreSQL · pgvector · SQLAlchemy · Redis
+DevOps & Cloud           ██████████████████░░  Kubernetes · Docker · AWS · GCP · Terraform
+Security & Auth          ███████████████████░  JWT · OAuth2 · CSRF · RBAC · Custom Tokens
+Data Pipelines           ██████████████████░░  ETL · Web Crawling · PDF · NLP Extraction
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🐍 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+**Languages**
 
-### 🌐 Backend & Frameworks
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-### 🗄️ Databases & Data
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+**Backend & API**
 
-### ⚡ Real-Time & Messaging
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=flat-square&logoColor=white)
 
-### 🤖 AI / ML / NLP
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+**Frontend**
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
 
-### 🔐 Security & Auth
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+**Databases & Search**
 
-### 🧪 Testing & Automation
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🖥️ Systems & Desktop
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**AI / ML**
+
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+**Messaging & Real-Time**
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+
+**Security & Testing**
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=knand4930&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knand4930&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=knand4930&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&title_color=e94560&icon_color=e94560"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knand4930&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&title_color=e94560"/>
 
-<img src="https://streak-stats.demolab.com?user=knand4930&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%"/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=knand4930&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=knand4930&theme=midnight-purple&hide_border=true&ring=e94560&fire=e94560&currStreakLabel=e94560" width="49%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=knand4930&theme=react-dark&hide_border=true&area=true&color=e94560&line=e94560&point=ffffff" width="100%"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🖥️ [NCode](https://github.com/knand4930/ncode) — Privacy-First AI Code Editor
+### [NCode](https://github.com/knand4930/ncode) — Privacy-First AI Code Editor
 
-> A VS Code-inspired desktop IDE with a deeply integrated AI assistant supporting **local (Ollama) and cloud LLMs** (OpenAI, Anthropic, Groq). Your code stays on your machine. Built with Rust, Tauri, React, and an optional Python gRPC AI backend.
+A cross-platform desktop IDE combining a VS Code-like editing experience with a fully integrated AI assistant. Runs **entirely offline** with local LLMs via Ollama, or optionally connects to cloud providers. Code never leaves your machine unless you choose.
 
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)](https://github.com/knand4930/ncode)
 [![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)](https://github.com/knand4930/ncode)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/knand4930/ncode)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/knand4930/ncode)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/knand4930/ncode)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/knand4930/ncode)
+[![Release](https://img.shields.io/github/v/release/knand4930/ncode?style=flat-square&color=e94560)](https://github.com/knand4930/ncode/releases)
 
-- Monaco Editor · multi-tab · file explorer · integrated terminal
-- AI modes: Chat, Think, Agent, Bug Hunt, Architect
-- Providers: Ollama, OpenAI, Anthropic, Groq, AirLLM, vLLM
-- RAG over your codebase · diff preview · AI change history with rollback
-- 7 built-in themes · cross-platform (Linux, macOS, Windows)
+| Feature | Detail |
+|---------|--------|
+| Editor | Monaco (VS Code engine) · multi-tab · file explorer · integrated terminal |
+| AI Modes | Chat · Think · Agent · Bug Hunt · Architect |
+| LLM Providers | Ollama · OpenAI · Anthropic · Groq · AirLLM · vLLM |
+| Advanced AI | RAG over codebase · diff preview · change history with rollback |
+| Platforms | Linux · macOS · Windows |
 
 ---
 
-### 🔐 [fastapi-authentication](https://github.com/knand4930/fastapi-authentication)
+### [fastapi-authentication](https://github.com/knand4930/fastapi-authentication)
 
-> Modular, production-ready authentication system — JWT, OAuth2, middleware, Alembic migrations, PostgreSQL backend.
+Production-ready modular authentication system — JWT, OAuth2, custom middleware, Alembic migrations, PostgreSQL.
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/knand4930/fastapi-authentication)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/knand4930/fastapi-authentication)
 [![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)](https://github.com/knand4930/fastapi-authentication)
+[![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=flat-square)](https://github.com/knand4930/fastapi-authentication)
 
 ---
 
-### 📋 [django-activitylog-jwt](https://github.com/knand4930/django-activitylog-jwt)
+### [django-activitylog-jwt](https://github.com/knand4930/django-activitylog-jwt)
 
-> Django extension for logging all authenticated user actions — pluggable, JWT-aware, and PyPI-published.
+Django extension for complete authenticated user activity logging — pluggable, customizable, and published on PyPI.
 
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://github.com/knand4930/django-activitylog-jwt)
-[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/django-activitylog-jwt/)
+[![PyPI](https://img.shields.io/badge/PyPI-Published-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/django-activitylog-jwt/)
 
 ---
 
-## 🧩 Systems I've Built
-
-> A few specialized systems that demonstrate depth across domains:
-
-| System | Description | Core Tech |
-|--------|-------------|-----------|
-| 🏠 Property Search Chatbot | Geo-based property recommendations via conversational AI | RAG · PostgreSQL · pgvector |
-| 📊 Trading Dashboard | Real-time Forex, crypto & stock analytics | Kafka · WebSockets · FastAPI |
-| 🔍 SEO Analytics Platform | SEMrush-style tool — crawling, analytics, competitor analysis | Kafka · Google APIs · Django |
-| 🤖 RAG Chatbot over SQL | Text + media search over structured databases | LLM · pgvector · FastAPI |
-| 📅 Task & Attendance Manager | Role-based workforce management system | Django · PostgreSQL · JWT |
-| 📡 Domain Monitoring Tool | Uptime + DNS + SSL expiry tracking | Async Python · Kafka · REST |
-
----
-
-## 📦 PyPI Package
+## PyPI Package
 
 <div align="center">
 
-### [`django-activitylog-jwt`](https://pypi.org/project/django-activitylog-jwt/)
+**[django-activitylog-jwt](https://pypi.org/project/django-activitylog-jwt/)**
 
-[![PyPI version](https://img.shields.io/pypi/v/django-activitylog-jwt?style=for-the-badge&color=3775A9)](https://pypi.org/project/django-activitylog-jwt/)
-[![PyPI downloads](https://img.shields.io/pypi/dm/django-activitylog-jwt?style=for-the-badge&color=0a9edc)](https://pypi.org/project/django-activitylog-jwt/)
-[![License](https://img.shields.io/pypi/l/django-activitylog-jwt?style=for-the-badge&color=green)](https://pypi.org/project/django-activitylog-jwt/)
-[![Python versions](https://img.shields.io/pypi/pyversions/django-activitylog-jwt?style=for-the-badge)](https://pypi.org/project/django-activitylog-jwt/)
+[![PyPI version](https://img.shields.io/pypi/v/django-activitylog-jwt?style=flat-square&color=3775A9)](https://pypi.org/project/django-activitylog-jwt/)
+&nbsp;
+[![Monthly Downloads](https://img.shields.io/pypi/dm/django-activitylog-jwt?style=flat-square&color=0a9edc&label=downloads/month)](https://pypi.org/project/django-activitylog-jwt/)
+&nbsp;
+[![Python versions](https://img.shields.io/pypi/pyversions/django-activitylog-jwt?style=flat-square)](https://pypi.org/project/django-activitylog-jwt/)
+&nbsp;
+[![License](https://img.shields.io/pypi/l/django-activitylog-jwt?style=flat-square&color=green)](https://pypi.org/project/django-activitylog-jwt/)
 
 </div>
 
-A secure, pluggable activity logging system for Django — request/response lifecycle tracking, user-specific audit logs, and JWT-based identity handling. Used in production environments.
+A secure, pluggable activity logging system for Django applications. Tracks every authenticated user action with full request/response lifecycle visibility and JWT-based identity handling.
 
 ```python
-# Install
 pip install django-activitylog-jwt
+```
 
+```python
 # settings.py
-INSTALLED_APPS = [
-    ...
-    'activitylog',
-]
-
-MIDDLEWARE = [
-    ...
-    'activitylog.middleware.ActivityLogMiddleware',
-]
+INSTALLED_APPS    = [..., 'activitylog']
+MIDDLEWARE        = [..., 'activitylog.middleware.ActivityLogMiddleware']
 ```
 
-**Features:**
-- 🔁 Full request/response lifecycle tracking
-- 👤 User-specific activity audit logs
-- 🔐 JWT-based identity extraction
-- ⚙️ Pluggable and configurable per-project
+**What it provides:**
+- Request/response lifecycle tracking across all authenticated endpoints
+- Per-user activity audit logs with timestamps and metadata
+- JWT-based user identity extraction without additional dependencies
+- Configurable log storage, filtering, and retention per project
 
 ---
 
-## 🤖 AI / ML Expertise
+## Systems Built
 
-```
-RAG Systems          ████████████████████  LLM Integration
-BERT / Transformers  ████████████████░░░░  Fine-tuning & Inference
-XGBoost / DNN / KNN  ███████████████░░░░░  Feature Eng. & Anomaly Detection
-pgvector / Search    ████████████████████  Vector Similarity & Retrieval
-NLP Extraction       ███████████████████░  Emails, Docs, Structured Data
-```
+A selection of production systems demonstrating cross-domain engineering depth:
 
-**Models & Tools:**
-- **BERT** — document classification, semantic search
-- **XGBoost** — tabular data, anomaly detection
-- **Deep Neural Networks (DNN)** — regression and classification pipelines
+| Domain | System | Highlights |
+|--------|--------|------------|
+| 🏠 Real Estate | Property Search Chatbot | Geo-based recommendations, conversational AI, pgvector similarity search |
+| 📈 Finance | Trading Dashboard | Real-time Forex/crypto/stocks, Kafka streams, WebSocket push updates |
+| 🔍 SEO | Analytics Platform | SEMrush-style crawling, Google Search Console & Analytics APIs, competitor analysis |
+| 🤖 AI | RAG Chatbot over SQL | Text + media retrieval, LLM-powered Q&A over structured databases |
+| 📋 HR | Task & Attendance System | Role-based access, workforce scheduling, bulk data reporting |
+| 📡 Monitoring | Domain Health Tracker | DNS, SSL, uptime monitoring; async Python; alerting pipelines |
+
+---
+
+## AI & ML Capabilities
+
+**Models & Techniques**
+
+- **RAG (Retrieval-Augmented Generation)** — production pipelines over SQL and document stores
+- **BERT** — semantic search, document classification, NLP feature extraction
+- **XGBoost** — tabular prediction, anomaly detection, feature engineering
+- **Deep Neural Networks** — regression and multi-class classification pipelines
 - **KNN** — similarity-based recommendation systems
-- **Hugging Face** — model loading, fine-tuning, inference
-- **pgvector** — vector similarity search on PostgreSQL
-- **RAG pipelines** — retrieval-augmented generation over SQL + document stores
+- **pgvector** — vector similarity search directly on PostgreSQL
+- **Hugging Face** — model loading, inference, fine-tuning workflows
+- **LLM Integration** — OpenAI, Anthropic, Groq, Ollama (local inference)
+
+**Data at Scale**
+
+- Designed systems handling millions to billions of records
+- Cursor-based and keyset pagination for large dataset traversal
+- Kafka-backed distributed scraping and ingestion pipelines
+- ETL pipelines with preprocessing, validation, and structured loading
 
 ---
 
-## ⚡ Data & Distributed Systems
+## Architecture Principles
 
-- **Kafka** — producers/consumers at scale, multi-partition pipelines
-- **RabbitMQ** — task queues, worker pools
-- **WebSockets** — real-time dashboards and notifications
-- **Async Python** — `asyncio`, `asyncpg`, async SQLAlchemy
-- **ETL Pipelines** — large-scale scraping, preprocessing, and loading
-- **Scale mindset** — systems designed to handle millions to billions of records
-- **Large dataset pagination** — cursor-based, keyset pagination strategies
+These aren't just tools — they're how I approach every system:
 
----
-
-## 🔍 SEO & Crawling
-
-- SEO tools architecture (SEMrush-style platforms)
-- Google Search Console API & Google Analytics integration
-- Web crawling systems (Kafka-backed, distributed)
-- Sitemap generation & competitor analysis logic
+- **Scalability by default** — systems designed to grow, not retrofitted
+- **API-first design** — clean contracts before implementation
+- **Security in layers** — custom auth, CSRF protection, RBAC, activity auditing
+- **Async-first where it matters** — `asyncio`, `asyncpg`, async SQLAlchemy
+- **Minimal external dependencies** — build for control and longevity
+- **Cross-stack integration** — React + FastAPI + ML + Kafka + Kubernetes as one cohesive system
 
 ---
 
-## 📄 Document Processing
+## Education
 
-- PDF generation (`pdfkit`, `@foliojs-fork/pdfkit`)
-- Email parsing & structured data extraction (NLP-based)
-- Large-scale document processing pipelines
-- CSV automation, Excel export & reporting systems
+**Bachelor of Science** — Magadh University, Bihar, India
 
 ---
 
-## 🏆 Highlights & Achievements
+## Recognition
 
 <div align="center">
 
-| 🏔️ Arctic Code Vault Contributor | 📦 PyPI Maintainer | 📁 87+ Repositories | ⭐ 17+ Stars |
+| 🏔️ Arctic Code Vault Contributor | 📦 Active PyPI Maintainer | 📁 87+ Public Repositories | ⭐ Open Source Contributor |
 |:---:|:---:|:---:|:---:|
 
 </div>
 
-- **Arctic Code Vault Contributor** — code archived by GitHub for future generations
-- **PyPI package maintainer** — actively used in production environments
-- **87+ public repositories** spanning backend, AI, DevOps, data engineering, and security
-- Cross-stack integrator: React + FastAPI + ML + Kafka + Kubernetes
-
 ---
 
-## 🎓 Education
-
-🎓 **Bachelor's Degree** — Magadh University, Bihar, India
-
----
-
-## 🌐 Connect With Me
+## Get In Touch
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nand-kishore-2091a8227/)
-[![PyPI](https://img.shields.io/badge/PyPI-My_Packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/knand4930/)
-[![GitHub](https://img.shields.io/badge/GitHub-knand4930-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/knand4930)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nand-kishore-2091a8227/)
+&nbsp;&nbsp;
+[![PyPI](https://img.shields.io/badge/View_PyPI_Packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/knand4930/)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/Browse_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/knand4930?tab=repositories)
 
 </div>
 
@@ -300,8 +302,8 @@ NLP Extraction       ███████████████████�
 
 <div align="center">
 
-> 🔍 *"Code with purpose, scale with precision, and automate everything."*
+<sub>*"Code with purpose, scale with precision, and automate everything."*</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6C63FF&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
 
 </div>
